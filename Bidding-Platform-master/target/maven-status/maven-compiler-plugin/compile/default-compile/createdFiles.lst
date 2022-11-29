@@ -1,0 +1,17 @@
+com/vishal/biddingPlatform/api/ProductBidResource.class
+com/vishal/biddingPlatform/services/UserService.class
+com/vishal/biddingPlatform/api/UserResource.class
+com/vishal/biddingPlatform/dao/UserDao.class
+com/vishal/biddingPlatform/exceptions/ResourceNotFoundException.class
+com/vishal/biddingPlatform/model/Product.class
+com/vishal/biddingPlatform/model/ApplicationError.class
+com/vishal/biddingPlatform/model/ProductBids.class
+com/vishal/biddingPlatform/services/ProductService.class
+com/vishal/biddingPlatform/api/ProductResource.class
+com/vishal/biddingPlatform/model/User.class
+com/vishal/biddingPlatform/dao/ProductDao.class
+com/vishal/biddingPlatform/BiddingPlatformApplication.class
+com/vishal/biddingPlatform/services/ProductBidsService.class
+com/vishal/biddingPlatform/api/ErrorHandlerService.class
+com/vishal/biddingPlatform/dao/ProductBidsDao.class
+com/vishal/biddingPlatform/exceptions/InvalidEntryException.class
